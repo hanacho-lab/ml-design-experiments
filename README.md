@@ -11,6 +11,8 @@ question or alternative approach.
 | No. | Project | Focus |
 |---|---|---|
 | 01 | [Room Occupancy: Time-Aware Evaluation](./01_room_occupancy_time_aware/) | Random Split vs. Chronological Split |
+| 02 | [German Credit: Default Threshold vs. Cost-Aware Threshold](./02_german_credit_cost_aware/) | Default Threshold vs. Cost-Aware Threshold |
+| 03 | [Olist Customer Satisfaction: Delivery Time vs. Delivery Expectation](./03_olist_customer_satisfaction/) | Feature Representation: Delivery Time vs. Delivery Expectation |
 
 More experiments will be added over time.
 
