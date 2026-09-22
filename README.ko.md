@@ -8,7 +8,9 @@
 
 | No. | Project | Focus |
 |---|---|---|
-| 01 | [Room Occupancy: Time-Aware Evaluation](./01_room_occupancy_time_aware/) | Random Split vs. Chronological Split |
+| 01 | [Room Occupancy: 시간 기반 평가](./01_room_occupancy_time_aware/) | 랜덤 분할 vs. 시간순 분할 |
+| 02 | [German Credit: 비용 고려 분류](./02_german_credit/) | 기본 임계값 vs. 비용 고려 임계값 |
+| 03 | [Olist 고객 만족도: 배송 특성 모델링](./03_olist_customer_satisfaction/) | 실제 배송 소요일 vs. 예상 배송일 대비 차이 |
 
 새로운 실험이 생길 때마다 프로젝트를 추가할 예정입니다.
 
